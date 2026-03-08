@@ -4,11 +4,11 @@
 
 ### Every RTC paid. Every contributor recognized. Full transparency.
 
-[![Total Paid](https://img.shields.io/badge/Total%20Paid-22%2C756%20RTC-gold?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
-[![Contributors](https://img.shields.io/badge/Contributors-214-blue?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
-[![Transactions](https://img.shields.io/badge/Transactions-641-green?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
+[![Total Paid](https://img.shields.io/badge/Total%20Paid-23%2C300%20RTC-gold?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
+[![Contributors](https://img.shields.io/badge/Contributors-218-blue?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
+[![Transactions](https://img.shields.io/badge/Transactions-716-green?style=for-the-badge)](https://github.com/Scottcjn/rustchain-bounties)
 
-*Updated: March 7, 2026 | Data pulled directly from the RustChain blockchain*
+*Updated: March 8, 2026 | Data pulled directly from the RustChain blockchain*
 
 </div>
 
@@ -18,23 +18,23 @@
 
 | Metric | Value |
 |--------|-------|
-| **Total RTC Paid Out** | **22,756.62 RTC** |
-| **Confirmed Transfers** | 17,962.50 RTC (461 txns) |
-| **Pending Transfers** | 4,794.12 RTC (180 txns) |
-| **Voided Transfers** | 2,907.00 RTC (51 txns) |
-| **Unique Recipients** | **214** |
-| **Total Transactions** | **641** |
+| **Total RTC Paid Out** | **23,299.92 RTC** |
+| **Confirmed Transfers** | 18,157.80 RTC (469 txns) |
+| **Pending Transfers** | 5,142.12 RTC (192 txns) |
+| **Voided Transfers** | 3,797.13 RTC (55 txns) |
+| **Unique Recipients** | **218** |
+| **Total Transactions** | **716** |
 | **Reference Rate** | 1 RTC = $0.10 USD |
-| **Total USD Equivalent** | ~$2,275.66 |
+| **Total USD Equivalent** | ~$2,329.99 |
 
 ## Funding Sources
 
 | Source Wallet | RTC Paid | Transactions | Purpose |
 |--------------|----------|--------------|---------|
-| `founder_community` | 18,425.12 | 434 | Community bounties, stars, content, engagement |
+| `founder_community` | 18,433.12 | 435 | Community bounties, stars, content, engagement |
 | `founder_team_bounty` | 3,561.50 | 192 | Code bounties, PRs, integrations |
-| `founder_dev_fund` | 770.00 | 15 | Security audits, red team, infrastructure |
-| **Total** | **22,756.62** | **641** | |
+| `founder_dev_fund` | 1,110.00 | 26 | Security audits, red team, infrastructure, March Madness |
+| **Total** | **23,104.62** | **653** | |
 
 ### Founder Wallet Balances (Live)
 
@@ -55,15 +55,15 @@
 | 2 | createkr | 2,643.00 | 77 | Top code contributor: wallet CLI, governance, SDKs |
 | 3 | simplereally | 1,075.00 | 6 | Early contributor |
 | 4 | davidtang-codex | 921.00 | 24 | Codex agent work |
-| 5 | nox-ventures | 821.50 | 27 | noxxxxybot/dayi1000: articles, tools, translations |
+| 5 | nox-ventures | 1,001.50 | 31 | noxxxxybot/dayi1000: articles, tools, translations, March Madness |
 | 6 | zhanglinqian | 756.20 | 18 | Engagement, content |
 | 7 | BuilderFred | 493.00 | 8 | Security audit (6 vulns found + fixed) |
 | 8 | tianlin-rtc | 436.00 | 17 | Stars, contributions |
 | 9 | daytonsaiagents-commits | 385.00 | 6 | Agent development |
-| 10 | godong0128 | 500.00 | 5 | Full engagement (101 stars + follow) |
+| 10 | godong0128 | 550.00 | 6 | Full engagement (101 stars + follow + March Madness) |
 | 11 | erdogan98 | 315.00 | 1 | Contributions |
 | 12 | ansomeck | 374.00 | 4 | Stars, bounties |
-| 13 | Ivan-houzhiwen | 170.00 | 4 | 100 stars + follow, issue reports |
+| 13 | Ivan-houzhiwen | 200.00 | 6 | 100 stars + follow, forks, issue reports |
 | 14 | newffnow-github | 167.50 | 4 | Stars, content |
 | 15 | nicepopo86-lang | 155.50 | 9 | Stars, bounties |
 
@@ -82,17 +82,17 @@
 | createkr | 1,200.00 | 33 | + 645.00 + 374.00 + 324.00 via alt wallets |
 | simplereally | 1,075.00 | 6 | |
 | davidtang-codex | 921.00 | 24 | |
-| nox-ventures | 821.50 | 27 | noxxxxybot-sketch + dayi1000 |
+| nox-ventures | 1,001.50 | 31 | noxxxxybot-sketch + dayi1000 |
 | zhanglinqian | 756.20 | 18 | |
 | BuilderFred | 493.00 | 8 | |
 | tianlin-rtc | 436.00 | 17 | |
 | daytonsaiagents-commits | 385.00 | 6 | |
-| godong0128 | 330.00 | 2 | + 170.00 via named wallet |
+| godong0128 | 380.00 | 3 | + 170.00 via named wallet |
 | erdogan98 | 315.00 | 1 | |
 | claw (edisonlv) | 217.00 | 7 | Dashboard, Prometheus, OpenAPI |
 | aroky-x86-miner | 197.75 | 4 | ArokyaMatthew |
 | atlas-agent-01 | 176.00 | 4 | jiangyj545 |
-| Ivan-houzhiwen | 170.00 | 4 | |
+| Ivan-houzhiwen | 200.00 | 6 | Stars, forks, engagement |
 | newffnow-github | 167.50 | 4 | |
 | zhddoge-ai | 159.00 | 6 | |
 | nicepopo86-lang | 155.50 | 9 | |
@@ -279,13 +279,13 @@
 
 | Category | Est. RTC | Description |
 |----------|---------|-------------|
-| Code Bounties | ~8,500 | PRs merged: SDKs, CLI tools, governance, miners, security fixes |
-| Star Campaign | ~3,200 | 0.25-0.50 RTC per repo starred, follow bonuses |
+| Code Bounties | ~8,760 | PRs merged: SDKs, CLI tools, governance, miners, security fixes |
+| Star Campaign | ~3,500 | 0.25-0.50 RTC per repo starred, follow bonuses |
 | Security / Red Team | ~2,800 | Vulnerability reports, attestation hardening, fuzz testing |
-| Content & Articles | ~1,500 | Blog posts, tutorials, comparison articles, translations |
+| Content & Articles | ~1,515 | Blog posts, tutorials, comparison articles, translations |
 | Agent Economy (RIP-302) | ~770 | 124 agent jobs completed |
 | Platform Allocation | 5,000 | BoTTube platform pool |
-| Engagement & Social | ~987 | Moltbook posts, X/Twitter, community participation |
+| Engagement & Social | ~1,150 | March Madness, Moltbook, X/Twitter, community participation |
 
 ---
 
