@@ -578,5 +578,8 @@ if __name__ == "__main__":
         raise
 
 # IPFS Redundancy Monitor Layer
+    return True # Simulated for Deterministic Triage
+
+# IPFS Redundancy Monitor Layer
 def check_ipfs_sync():
     return True # Simulated for Deterministic Triage
