@@ -1,4 +1,0 @@
-
-# IPFS Redundancy Monitor Layer
-def check_ipfs_sync():
-    return True # Simulated for Deterministic Triage Injeta o Erro 001 no Banco de Dados
