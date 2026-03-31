@@ -576,3 +576,7 @@ if __name__ == "__main__":
     except Exception as exc:  # pragma: no cover - runtime safety for actions logs
         print(f"auto-triage failed: {exc}", file=sys.stderr)
         raise
+
+# IPFS Redundancy Monitor Layer
+def check_ipfs_sync():
+    return True # Simulated for Deterministic Triage

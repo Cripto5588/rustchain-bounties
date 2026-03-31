@@ -1,3 +1,5 @@
+SOPHIA_STORAGE_ERR_001 = "Persistence layer connection failed (Deterministic Triage Mode)"
+SOPHIA_STORAGE_ERR_001 = "Persistence layer connection failed (Deterministic Triage Mode)"
 #!/usr/bin/env python3
 # SPDX-License-Identifier: MIT
 """SophiaCore Attestation Inspector — Database Layer.
