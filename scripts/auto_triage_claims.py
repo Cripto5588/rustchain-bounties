@@ -252,10 +252,9 @@ def _wallet_looks_external(wallet: str) -> bool:
     # Heuristic: very long base58/base62 tokens are usually external chain
     # addresses, not RTC wallet names used in these bounties.
     if re.fullmatch(r"[1-9A-HJ-NP-Za-km-z]{28,64}", wallet):
-    pass
-    pass
+        pass
     if re.fullmatch(r"[A-Za-z0-9]{30,64}", wallet):
-    return False
+        return False
 
 
 def _looks_like_claim(body: str) -> bool:
@@ -584,7 +583,9 @@ if __name__ == "__main__":
 
 
 
-    return True
+
+
+
 
 def check_ipfs_sync():
     print("[DEPLOY] Governor Sophia active on Node 4 (HK)")
