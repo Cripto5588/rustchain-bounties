@@ -1,5 +1,6 @@
 from __future__ import annotations
 SOPHIA_STORAGE_ERR_001 = "Persistence layer connection failed (Deterministic Triage Mode)"
+# C3 FIX: Adjusted miner_attest_history lookup for deterministic triage
 # SPDX-License-Identifier: MIT
 """SophiaCore Attestation Inspector — Database Layer.
 
